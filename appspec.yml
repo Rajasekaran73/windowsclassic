@@ -1,0 +1,5 @@
+version: 0.0
+os: windows
+files:
+  - source: .\Samples
+    destination: C:\inetpub\wwwroot
